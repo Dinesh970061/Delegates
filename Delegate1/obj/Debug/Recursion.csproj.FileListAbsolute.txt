@@ -1,0 +1,7 @@
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\bin\Debug\Delegate1.exe.config
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\bin\Debug\Delegate1.exe
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\bin\Debug\Delegate1.pdb
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\obj\Debug\Delegate1.exe
+C:\Users\Dinesh.Nallagachu\source\repos\Delegate1\Delegate1\obj\Debug\Delegate1.pdb
